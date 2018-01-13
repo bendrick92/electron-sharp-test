@@ -1,0 +1,17 @@
+{
+  "name": "electron-sharp-test",
+  "version": "1.0.0",
+  "description": "Test app for troubleshooting Electron + Sharp",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "1.7.10"
+  },
+  "dependencies": {
+    "sharp": "^0.19.0"
+  }
+}
